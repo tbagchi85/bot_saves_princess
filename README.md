@@ -56,6 +56,8 @@
    sample testcase).
 * Solutions
   #Ruby
+      
+      
       # lib/bot_saves.rb
       #!/bin/ruby
       class BotSaves
