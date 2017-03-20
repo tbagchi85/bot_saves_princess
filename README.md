@@ -14,6 +14,10 @@
    Print out all the moves you take to rescue the princess in one go.
    Moves must be separated by ‘\n’ a newline. The valid outputs are LEFT
    or RIGHT or UP or DOWN.
+   
+   # command to run
+   
+     $ ruby boot_save_princess.rb
 
    #sample input
       Input the array index
@@ -106,3 +110,12 @@
    #RESULTS:
     DOWN
     LEFT
+    
+  # Run Rsepc
+    $ bundle exec rspec
+    
+  ## Rspec output
+    .......
+    
+    Finished in 0.00167 seconds (files took 0.07789 seconds to load)
+    7 examples, 0 failures
